@@ -77,7 +77,7 @@ Optionally, you can apply labels on all hierarchy levels for segmenting the stru
 
 The easiest way to install facebook-ads-downloader is using pip
 
-    pip install git+https://github.com/mara/facebook-ads-performance-downloader.git
+    pip install git+https://github.com/sergeyenin/facebook-ads-performance-downloader.git
 
 In case you want to install it in a virtual environment:
 
